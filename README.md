@@ -5,9 +5,9 @@
 
 - 💻 Je me focalise actuellement sur le langage **Python et Django**
 
-- 🌐 N'hésitez pas à visiter mon Portfolio Professionnel pour découvrir l'ensemble de mes projets. [sleyter.fr](sleyter.fr)
+- 🌐 N'hésitez pas à visiter mon Portfolio Professionnel pour découvrir l'ensemble de mes projets => [sleyter.fr](sleyter.fr)
 
-- 📨 Si vous souhaitez me contacter **sleyter.9z92y@8shield.net**
+- 📨 Si vous souhaitez me contacter => **sleyter.9z92y@8shield.net**
 
 <hr>
 
