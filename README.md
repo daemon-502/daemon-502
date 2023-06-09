@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenue sur mon Github 👊🏽</h1>
 <h3 align="center">Étudiant en Cybersécurité & Développeur Full Stack</h3>
 
-- 🚀 Mon été sera dédié au développement de deux super-projets ! **GALAXY & BEATMAKER**
+- 🚀 Développement de deux super-projets ! **GALAXY & BEATMAKER**
 
 - 💻 Je me focalise actuellement sur le langage **Python et Django**
 
