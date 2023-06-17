@@ -7,7 +7,7 @@
 
 - 🌐 N'hésitez pas à visiter mon Portfolio Professionnel pour découvrir l'ensemble de mes projets => <a href="https://sleyter.fr/" target="_blank">sleyter.fr</a>
 
-- 📨 Si vous souhaitez me contacter => **sleyter.9z92y@8shield.net**
+- 📨 Si vous souhaitez me contacter => **contact@sleyter.fr**
 
 <hr>
 
