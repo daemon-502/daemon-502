@@ -49,9 +49,8 @@
 
 ###
 
-<p align="left">🌐 N'hésitez pas à visiter mon Portfolio pour découvrir l'ensemble de mes projets => https://sleyter.fr</p>
+<p align="center">🌐 N'hésitez pas à visiter mon Portfolio pour découvrir l'ensemble de mes projets => https://sleyter.fr</p>
 <hr>
-###
 
 <h3 align="center">Réseaux Sociaux</h3>
 
@@ -71,9 +70,8 @@
 
 ###
 
-<p align="left">📩 Si vous souhaitez me contacter => contact@sleyter.fr</p>
+<p align="center">📩 Si vous souhaitez me contacter => contact@sleyter.fr</p>
 <hr>
-###
 
 <div align="center">
   <img height="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxoaG8zdmp2cjNwdjljMnhxdGh6NmowMmwwZmc5NHJweDE2eHdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
