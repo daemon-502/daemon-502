@@ -82,9 +82,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/sleyter-monteiro/count.svg?"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/sleyter-monteiro/sleyter-monteiro/output/snake.svg" alt="Snake animation" />
-
-###
