@@ -50,7 +50,7 @@
 ###
 
 <p align="left">🌐 N'hésitez pas à visiter mon Portfolio pour découvrir l'ensemble de mes projets => https://sleyter.fr</p>
-
+<hr>
 ###
 
 <h3 align="center">Réseaux Sociaux</h3>
@@ -72,7 +72,7 @@
 ###
 
 <p align="left">📩 Si vous souhaitez me contacter => contact@sleyter.fr</p>
-
+<hr>
 ###
 
 <div align="center">
