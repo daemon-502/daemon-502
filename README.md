@@ -1,18 +1,94 @@
-<h1 align="center">Bienvenue sur mon Github 👊🏽</h1>
-<h3 align="center">Étudiant en Cybersécurité & Développeur Full Stack</h3>
+<h1 align="center">Bienvenue sur mon Github 🛡</h1>
 
-- 🚀 Développement de deux super-projets ! **GALAXY & BEATMAKER**
+###
 
-- 💻 Je me focalise actuellement sur le langage **Python et Django**
+<h2 align="center">Étudiant en Cybersécurité & Développeur Full Stack 🎓</h2>
 
-- 🌐 N'hésitez pas à visiter mon Portfolio Professionnel pour découvrir l'ensemble de mes projets => <a href="https://sleyter.fr/" target="_blank">sleyter.fr</a>
+###
 
-- 📨 Si vous souhaitez me contacter => **contact@sleyter.fr**
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sleyter-monteiro&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sleyter-monteiro&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
+</div>
 
-<hr>
+###
 
-<h3 align="left">Mes Compétences</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<h3 align="center">Compétences</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sleyter-monteiro&" alt="sleyter-monteiro" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sleyter-monteiro&show_icons=true&locale=en&layout=compact" alt="sleyter-monteiro" /></p>
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="60" alt="php logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/django/092E20" height="60" alt="django logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=symfony" height="60" alt="symfony logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="bootstrap logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
+  <img width="16" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+</div>
+
+###
+
+<p align="left">🌐 N'hésitez pas à visiter mon Portfolio pour découvrir l'ensemble de mes projets => https://sleyter.fr</p>
+
+###
+
+<h3 align="center">Réseaux Sociaux</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/sleyter-monteiro" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/754347686806814720" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://tryhackme.com/p/sguardprivacy" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat" height="40" alt="tryhackme logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">📩 Si vous souhaitez me contacter => contact@sleyter.fr</p>
+
+###
+
+<div align="center">
+  <img height="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxoaG8zdmp2cjNwdjljMnhxdGh6NmowMmwwZmc5NHJweDE2eHdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/sleyter-monteiro/count.svg?"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/sleyter-monteiro/sleyter-monteiro/output/snake.svg" alt="Snake animation" />
+
+###
