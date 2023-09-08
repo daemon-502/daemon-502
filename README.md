@@ -1,10 +1,8 @@
 <h1 align="center">Bienvenue sur mon Github 🛡</h1>
 
 ###
-
 <h2 align="center">Étudiant en Cybersécurité & Développeur Full Stack 🎓</h2>
 
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sleyter-monteiro&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="180" alt="streak graph"  />
