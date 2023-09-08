@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenue sur mon Github 🛡</h1>
 
 ###
-<h2 align="center">Étudiant en Cybersécurité & Développeur Full Stack 🎓</h2>
+<h3 align="center">Étudiant en Cybersécurité & Développeur Full Stack 🎓</h3>
 
 
 <div align="center">
