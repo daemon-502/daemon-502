@@ -1,7 +1,7 @@
 <h1 align="center">Étudiant en Cybersécurité & Développeur Full Stack 🎓</h1>
 
 ###
-<h3 align="center">Ici il y a mes projets obscur</h3>
+<h3 align="center">Github obscur</h3>
 
 
 <div align="center">
