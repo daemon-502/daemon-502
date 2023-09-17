@@ -5,8 +5,8 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=stealthy-ghost&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stealthy-ghost&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=sleyter-monteiro&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sleyter-monteiro&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
@@ -80,5 +80,5 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/stealthy-ghost/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/sleyter-monteiro/count.svg?"  />
 </div>
