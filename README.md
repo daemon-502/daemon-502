@@ -1,8 +1,6 @@
 <h1 align="center">Étudiant en Cybersécurité & Développeur Full Stack 🎓</h1>
 
 ###
-<h3 align="center">Github obscur</h3>
-
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=sleyter-monteiro&locale=fr&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j/n[/Y]&order=3" height="180" alt="streak graph"  />
