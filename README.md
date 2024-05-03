@@ -1,4 +1,4 @@
-<h1 align="center">Étudiant en Cybersécurité & Développeur Full Stack 🎓</h1>
+<h1 align="center">Aspirant Expert en Cybersécurité 🎓</h1>
 
 ###
 
@@ -61,22 +61,16 @@
   <a href="https://discordapp.com/users/754347686806814720" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="40" alt="discord logo"  />
   </a>
-  <a href="https://tryhackme.com/p/sguardprivacy" target="_blank">
+  <a href="https://tryhackme.com/p/sleyter" target="_blank">
     <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat" height="40" alt="tryhackme logo"  />
   </a>
 </div>
 
 ###
 
-<p align="center">📩 Si vous souhaitez me contacter => contact@sleyter.fr</p>
+<p align="center">📩 Si vous souhaitez me contacter => sleyter.81z3u@8shield.net</p>
 <hr>
 
 <div align="center">
   <img height="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxoaG8zdmp2cjNwdjljMnhxdGh6NmowMmwwZmc5NHJweDE2eHdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sleyter-monteiro/count.svg?"  />
 </div>
