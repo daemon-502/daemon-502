@@ -60,8 +60,3 @@
 ###
 
 <p align="center">📩 Si vous souhaitez me contacter => sleyter.81z3u@8shield.net</p>
-<hr>
-
-<div align="center">
-  <img height="" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxoaG8zdmp2cjNwdjljMnhxdGh6NmowMmwwZmc5NHJweDE2eHdtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12W5Sg2koWYnwA/giphy.gif"  />
-</div>
